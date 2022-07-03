@@ -1,1 +1,8 @@
-Fmbm seemed like a good idea at 2022-06-24T08:32:39.1064388Z.
+FMBM All
+========
+
+A metapackage containing the FMBM packages.
+
+* [DirPath](https://github.com/codybartfast/dirpaths)  
+* [CCFile](https://github.com/codybartfast/ccfile)  
+* [CSV](https://github.com/codybartfast/csv)  
