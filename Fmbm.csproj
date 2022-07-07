@@ -7,7 +7,7 @@
     <AssemblyName>Fmbm.All</AssemblyName>
     <AssemblyTitle>Fmbm.All</AssemblyTitle>
     <Authors>John Donnellan</Authors>
-    <PackageTags>ccfile;csv;dirpaths;FMBM</PackageTags>
+    <PackageTags>ccfile;csv;dirpaths;fmbm</PackageTags>
     <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/codybartfast/fmbm</RepositoryUrl>
@@ -16,10 +16,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Fmbm.IDs" Version="1.0.0-beta.1" />
-    <PackageReference Include="Fmbm.CCFile" Version="1.0.0-beta.1" />
-    <PackageReference Include="Fmbm.Csv" Version="1.0.0-beta.1" />
-    <PackageReference Include="Fmbm.Dirpaths" Version="1.0.0-beta.3" />
+    <PackageReference Include="Fmbm.IDs" Version="[1.0.0-beta.1]" />
+    <PackageReference Include="Fmbm.CCFile" Version="[1.0.0-beta.1]" />
+    <PackageReference Include="Fmbm.Csv" Version="[1.0.0-beta.1]" />
+    <PackageReference Include="Fmbm.Dirpaths" Version="[1.0.0-beta.3]" />
   </ItemGroup>
 
   <ItemGroup>
