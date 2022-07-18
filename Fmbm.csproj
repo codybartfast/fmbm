@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Version>1.0.0-beta.4.14</Version>
+    <Version>1.0.0-beta.4.15</Version>
     <TargetFramework>net6.0</TargetFramework>
     <Description>All the FMBM packages</Description>
     <AssemblyName>Fmbm.All</AssemblyName>
@@ -18,7 +18,7 @@
   <ItemGroup>
     <PackageReference Include="Fmbm.IDs" Version="[1.0.0-beta.1]" />
     <PackageReference Include="Fmbm.CCFile" Version="[1.0.0-beta.1]" />
-    <PackageReference Include="Fmbm.Csv" Version="[1.0.0-beta.2.11]" />
+    <PackageReference Include="Fmbm.Csv" Version="[1.0.0-beta.2.13]" />
     <PackageReference Include="Fmbm.Dirpaths" Version="[1.0.0-beta.3]" />
   </ItemGroup>
 
