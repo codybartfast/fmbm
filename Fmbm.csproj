@@ -1,17 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Version>1.0.1</Version>
+    <Version>1.0.2-beta.0</Version>
     <TargetFramework>net6.0</TargetFramework>
     <Description>All the FMBM packages</Description>
     <AssemblyName>Fmbm.All</AssemblyName>
     <AssemblyTitle>Fmbm.All</AssemblyTitle>
     <Authors>John Donnellan</Authors>
-    <PackageTags>ccfile;csv;dirpaths;fmbm</PackageTags>
-    <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/codybartfast/fmbm</RepositoryUrl>
+    <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
+    <PackageTags>ccfile;csv;dirpaths;fmbm</PackageTags>
     <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/codybartfast/fmbm</RepositoryUrl>
     <IncludeBuildOutput>false</IncludeBuildOutput>
   </PropertyGroup>
 
