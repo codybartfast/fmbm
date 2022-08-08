@@ -16,10 +16,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Fmbm.IDs" Version="[1.0.0-beta.1]" />
+    <PackageReference Include="Fmbm.Dirpaths" Version="[1.0.1]" />
     <PackageReference Include="Fmbm.CCFile" Version="[1.0.0-beta.1]" />
     <PackageReference Include="Fmbm.Csv" Version="[1.0.0-beta.2.16]" />
-    <PackageReference Include="Fmbm.Dirpaths" Version="[1.0.0-beta.3]" />
+    <PackageReference Include="Fmbm.IDs" Version="[1.0.0-beta.1]" />
   </ItemGroup>
 
   <ItemGroup>
