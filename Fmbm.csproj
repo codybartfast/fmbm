@@ -19,7 +19,7 @@
     <PackageReference Include="Fmbm.Dirpaths" Version="[1.0.1]" />
     <PackageReference Include="Fmbm.CCFile" Version="[1.0.1]" />
     <PackageReference Include="Fmbm.Csv" Version="[1.0.1]" />
-    <PackageReference Include="Fmbm.IDs" Version="[1.0.1]" />
+    <PackageReference Include="Fmbm.IDs" Version="[1.0.2-beta.0]" />
   </ItemGroup>
 
   <ItemGroup>
